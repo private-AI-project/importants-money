@@ -8,8 +8,8 @@ tags: [기준금리, 코픽스, 대출금리, 변동금리]
 categories: ["금리"]
 sourceUrl: "https://portal.kfb.or.kr/fingoods/cofix.php"
 cover:
-  image: "/images/covers/base-rate-to-loan-rate.jpg"
-  alt: "기준금리에서 내 대출로 이어지는 경로"
+  image: "/images/base-rate-to-loan-rate-1.jpg"
+  alt: "금리 서류와 계산기"
 ---
 
 어제 저녁 뉴스 자막에 "기준금리 연 3.00%"가 떴습니다. 대출이 있는 사람이라면 오늘 아침 은행 앱부터 열어봤을 텐데, 내 주택담보대출 금리는 어제 그대로일 겁니다. 분명 올랐다는데 왜 그대로일까요. 기준금리가 내 이자에 닿기까지는 정해진 경로와 시간표가 있기 때문입니다.

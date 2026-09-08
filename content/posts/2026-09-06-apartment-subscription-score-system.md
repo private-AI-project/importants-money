@@ -8,8 +8,8 @@ tags: [청약가점제, 무주택기간, 부양가족수, 청약통장]
 categories: ["부동산"]
 sourceUrl: "https://www.applyhome.co.kr/ap/apg/selectAddpntCalculatorView.do"
 cover:
-  image: "/images/covers/apartment-subscription-score-system.jpg"
-  alt: "집 모양 저울 위에 쌓이는 점수 블록"
+  image: "/images/apartment-subscription-score-system-1.jpg"
+  alt: "아파트 단지 항공뷰"
 ---
 "이번 단지 가점 커트라인은 69점"이라는 기사 자막을 보고 청약홈에서 내 가점을 조회해본 적이 있다면, 생각보다 낮게 나온 숫자에 당황했을 가능성이 큽니다. 84점 만점이라는데 내 점수는 삼사십점대. 이 격차는 운이 아니라 계산법의 문제입니다. 가점은 세 가지 항목을 정해진 공식대로 더한 합계라서 항목별 산정 기준을 알아야 내 점수가 왜 이렇게 나왔는지 보입니다.
 

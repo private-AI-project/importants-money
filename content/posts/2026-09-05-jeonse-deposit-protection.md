@@ -8,8 +8,8 @@ tags: [전세보증금, 확정일자, 최우선변제, 전세보증금반환보�
 categories: ["부동산"]
 sourceUrl: "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=5&cciNo=2&cnpClsNo=2"
 cover:
-  image: "/images/covers/jeonse-deposit-protection.jpg"
-  alt: "집 한 채와 그 위에 겹겹이 놓인 방패 세 개"
+  image: "/images/jeonse-deposit-protection-1.jpg"
+  alt: "계약서에 서명하는 손"
 ---
 9월 전국 아파트 입주 물량이 6년 5개월 만에 최저치라는 기사가 나왔습니다. 입주할 새 집이 줄면 전세 매물도 같이 줄고 매물이 줄면 계약을 서두르게 됩니다. 마음이 급해지는 시기일수록 놓치기 쉬운 게 하나 있습니다. 이 계약에서 집주인이 보증금을 안 돌려주면 나는 뭘로 버티나 하는 부분입니다. 실제로는 이 상황에 대비하는 장치가 한 겹이 아니라 세 겹으로 나뉘어 있습니다.
 

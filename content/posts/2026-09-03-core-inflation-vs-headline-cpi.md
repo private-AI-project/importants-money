@@ -8,8 +8,8 @@ tags: [근원물가, 소비자물가지수, 통계청, 한국은행]
 categories: ["용어"]
 sourceUrl: "https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1060"
 cover:
-  image: "/images/covers/core-inflation-vs-headline-cpi.jpg"
-  alt: "장바구니 물가 그래프 옆에 농산물과 유가 아이콘이 걸러지는 필터를 지나는 일러스트"
+  image: "/images/core-inflation-vs-headline-cpi-1.jpg"
+  alt: "영수증을 확인하는 모습"
 ---
 어제 발표된 8월 물가 지표를 보면 소비자물가는 3.1%, 근원물가는 3.4%입니다. 두 수치는 모두 물가를 나타내지만 같은 값을 가리키지는 않습니다. 특히 근원물가가 더 높다는 점이 눈에 띕니다. 같은 달, 같은 나라의 물가인데 왜 수치가 다를까요. 두 지표는 각각 다른 목적에 따라 산출됩니다.
 

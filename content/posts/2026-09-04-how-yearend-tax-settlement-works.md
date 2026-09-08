@@ -8,8 +8,8 @@ tags: [연말정산, 소득공제, 세액공제, 원천징수]
 categories: ["세금"]
 sourceUrl: "https://www.korea.kr/multi/visualNewsView.do?newsId=148936580"
 cover:
-  image: "/images/covers/how-yearend-tax-settlement-works.jpg"
-  alt: "월급명세서와 계산기, 두 갈래로 나뉘는 화살표를 표현한 일러스트"
+  image: "/images/how-yearend-tax-settlement-works-1.jpg"
+  alt: "세금 서식과 계산기"
 ---
 어제 세제개편안 소식에 월세 세액공제 한도를 늘린다는 대목이 있었습니다. [세제개편안 브리핑](https://blog.importants-studio.com/posts/econ-briefing-20260903/)에서 다룬 내용인데, 정작 '세액공제'가 정확히 뭘 줄여주는 건지, 매달 월급에서 떼 가는 세금과 1월에 정산하는 세금이 왜 다른 액수인지 헷갈리는 사람이 많습니다. 같은 회사, 비슷한 연봉인데 누구는 연말정산으로 돈을 돌려받고 누구는 오히려 더 내는 결과도 여기서 갈립니다.
 

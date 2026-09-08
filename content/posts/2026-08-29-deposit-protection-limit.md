@@ -8,8 +8,8 @@ tags: [예금자보호, 예금보험공사, 저축은행, 예금]
 categories: ["용어"]
 sourceUrl: "https://www.fsc.go.kr/no010101/85200"
 cover:
-  image: "/images/covers/deposit-protection-limit.jpg"
-  alt: "여러 은행에 나눠 담긴 예금과 보호 우산"
+  image: "/images/deposit-protection-limit-1.jpg"
+  alt: "은행 금고 문"
 ---
 
 한국은행(한은)이 기준금리를 연 3.00%로 올린 뒤, 조금이라도 이자를 더 주는 곳을 찾아 저축은행 앱을 깔아본 분이 많을 겁니다. 금리 인상이 내 대출에 언제 닿는지는 [따로 정리했고](/posts/base-rate-to-loan-rate/), 오늘은 반대편 이야기입니다. 예금 가입 화면 맨 아래에 작게 붙어 있는 문구, "이 예금은 예금자보호법에 따라 1억원까지 보호됩니다." 그런데 이 1억이 계좌마다인지 은행마다인지, 이자까지 쳐주는 건지는 어디에도 친절하게 안 적혀 있죠.

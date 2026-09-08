@@ -8,8 +8,8 @@ tags: [소비자물가지수, 물가상승률, 체감물가, 통계청]
 categories: ["용어"]
 sourceUrl: "https://www.index.go.kr/unify/idx-info.do?idxCd=4226"
 cover:
-  image: "/images/covers/how-cpi-is-calculated.jpg"
-  alt: "저울 위에 올려진 장바구니와 물가 그래프"
+  image: "/images/how-cpi-is-calculated-1.jpg"
+  alt: "마트 진열대"
 ---
 
 한국은행(한은)이 지난주 기준금리를 연 3.00%로 올리면서 내세운 이유가 물가였습니다. 그런데 뉴스 자막의 "물가상승률 둔화"와 마트 계산대의 영수증은 좀처럼 같은 이야기를 하지 않죠. 장 볼 때마다 만원이 우습게 사라지는데 물가가 잡혔다니. 이 어긋남은 누가 거짓말을 해서가 아니라, 물가상승률이라는 숫자가 만들어지는 방식 자체에서 나옵니다.

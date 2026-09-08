@@ -8,8 +8,8 @@ tags: [공시가격, 재산세, 공정시장가액비율, 부동산세금]
 categories: ["부동산"]
 sourceUrl: "https://eiec.kdi.re.kr/policy/materialView.do?num=280310"
 cover:
-  image: "/images/covers/official-price-vs-market-price.jpg"
-  alt: "주택과 가격표, 세금 계산 과정을 표현한 일러스트"
+  image: "/images/official-price-vs-market-price-1.jpg"
+  alt: "아파트 단지 외관"
 ---
 이번 주에 달력이 9월로 넘어가고 보름쯤 지나면 재산세 2기분 고지서가 우편함에 꽂힙니다. 고지서를 받아 든 사람들이 한 번씩 갸웃하는 대목이 있습니다. 우리 집은 시세가 10억이라는데 세금 계산의 출발점에 적힌 가격은 그 근처에도 안 가는 겁니다. 잘못 나온 게 아닙니다. 부동산 세금은 시세가 아니라 공시가격이라는 별도의 가격으로 계산하기 때문입니다. 거기서 한 번 더 깎은 값에 세율을 곱합니다. 이 구조를 알면 고지서의 숫자가 읽히기 시작합니다.
 

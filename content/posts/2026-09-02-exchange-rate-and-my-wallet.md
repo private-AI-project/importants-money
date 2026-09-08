@@ -8,8 +8,8 @@ tags: [환율, 원달러환율, 미국금리, 수입물가]
 categories: ["금리"]
 sourceUrl: "https://view.asiae.co.kr/article/2026083110182693149"
 cover:
-  image: "/images/covers/exchange-rate-and-my-wallet.jpg"
-  alt: "달러 지폐와 원화 지폐가 저울 양쪽에 놓인 모습, 저울 한쪽에는 장바구니가 함께 있는 일러스트"
+  image: "/images/exchange-rate-and-my-wallet-1.jpg"
+  alt: "환율과 지표가 뜬 화면"
 ---
 다음 달 해외여행을 앞두고 환전 앱을 켰다가 지난달 봐 둔 환율보다 더 비싸게 나온 걸 보고 놀란 적 있으신가요. 요즘 뉴스에는 "미 연준의 매파적 발언에 코스피 하락"이라는 자막이 자주 뜹니다. 미국 중앙은행 얘기인데 왜 내가 사려는 달러 값까지, 나아가 마트 진열대 가격까지 움직이는 걸까요. 그 연결 고리를 따라가면 의외로 단순한 원리가 나옵니다.
 

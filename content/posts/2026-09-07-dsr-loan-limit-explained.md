@@ -8,8 +8,8 @@ tags: [DSR, 총부채원리금상환비율, 스트레스DSR, 가계부채, 대�
 categories: ["부동산"]
 sourceUrl: "https://www.korea.kr/multi/visualNewsView.do?newsId=148943522"
 cover:
-  image: "/images/covers/dsr-loan-limit-explained.jpg"
-  alt: "저울 한쪽엔 월급 봉투, 다른 한쪽엔 대출 서류가 쌓인 일러스트"
+  image: "/images/dsr-loan-limit-explained-1.jpg"
+  alt: "대출 신청 서류"
 faq:
   - q: DSR과 DTI는 뭐가 다른가요?
     a: DTI는 주택담보대출의 원리금과 다른 대출의 이자만 더해 계산하지만, DSR은 신용대출·카드론까지 포함해 내가 가진 모든 대출의 원리금 상환액을 소득으로 나눕니다. 그래서 같은 소득이라도 DSR이 DTI보다 한도를 더 촘촘하게 제한합니다.
