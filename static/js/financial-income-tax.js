@@ -220,7 +220,7 @@
         var mode = btn.getAttribute("data-share");
         if (mode === "native") {
           if (navigator.share) {
-            navigator.share({ title: "금융소득 2,000만원 판정기", text: shareText, url: url }).catch(function () {});
+            navigator.share({ title: "금융소득 종합과세 계산기", text: shareText, url: url }).catch(function () {});
           } else {
             copyTo(btn, shareText + "\n" + url, "복사됨 (카톡에 붙여넣기)");
           }
