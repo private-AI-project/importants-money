@@ -209,6 +209,7 @@
 
     box.innerHTML = html;
     box.hidden = false;
+    if (window.gtag) gtag("event", "tool_result", { tool_path: location.pathname });
 
     var url = "https://money.importants-studio.com/tools/financial-income-tax/";
     var shareText = r.extraTotal > 0
