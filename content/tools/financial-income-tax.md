@@ -24,7 +24,6 @@ faq:
 cover:
   image: "/images/covers/financial-income-tax.jpg"
   alt: "금융 자료를 살펴보는 모습"
-  caption: "사진: Yan Krukau / Pexels"
 ---
 
 ## 뉴스에 매년 나오는 숫자입니다
