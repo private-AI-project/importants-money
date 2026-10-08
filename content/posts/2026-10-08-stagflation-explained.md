@@ -44,14 +44,15 @@ cover:
 
 ## 1970년대 미국에서는 숫자가 이랬습니다
 
-같은 연준 자료에서 확인되는 시점별 수치입니다.
+시점별 수치입니다. 1979년 8월 행은 위 연준 자료에 나오고, 1980년 행은 미국 노동통계국의 소비자물가지수와 실업률 원계열에서 가져왔습니다.
 
 | 시점 | 물가상승률(전년 대비) | 실업률 |
 |---|---|---|
 | 1979년 8월 (볼커 의장 취임) | 11% 넘음 | 6% 바로 아래 |
-| 1980년 여름 | 약 14.5% | 7.5% 넘음 |
+| 1980년 3월 (물가 정점) | 14.8% | 6.3% |
+| 1980년 7월 | 13.1% | 7.8% |
 
-출처: [Federal Reserve History, The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
+출처: [Federal Reserve History, The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation), 1980년 수치는 [미국 소비자물가지수](https://fred.stlouisfed.org/series/CPIAUCNS)와 [실업률](https://fred.stlouisfed.org/series/UNRATE) 원계열
 
 물가와 실업률이 같은 쪽으로 움직였다는 것이 보이실 겁니다. 이 시기 연준은 1979년 10월에 정책 방식을 바꿔, 기준금리 수준 대신 준비금 증가율을 목표로 삼겠다고 발표했습니다. 물가를 잡는 데 전보다 단호하게 나서겠다는 뜻으로 읽히는 대목입니다.
 
