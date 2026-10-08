@@ -44,7 +44,7 @@ DTI는 총부채상환비율의 영어 약자입니다. 금융감독원은 [금�
 | 기존 대출 | 이자만 | 원금과 이자 |
 | 분모 | 연소득 | 연소득 |
 
-출처: [금융감독원 금융 FAQ](https://www.fss.or.kr/fss/bbs/B0000172/view.do?nttId=49554&menuNo=200202&pageIndex=1), [금융위원회 스트레스 DSR 안내](https://fsc.go.kr/po010101/81343)
+출처: [금융감독원 금융 FAQ](https://www.fss.or.kr/fss/bbs/B0000172/view.do?nttId=49554&menuNo=200202&pageIndex=1). DSR 산식은 [은행업감독규정](https://www.law.go.kr/행정규칙/은행업감독규정)에 있습니다.
 
 ## 같은 사람의 DTI와 DSR을 나란히 놓으면
 
