@@ -9,7 +9,7 @@ categories: ["부동산"]
 sourceUrl: "https://www.fss.or.kr/fss/bbs/B0000172/view.do?nttId=49554&menuNo=200202&pageIndex=1"
 cover:
   image: "/images/dti-meaning-vs-dsr-1.jpg"
-  alt: "계산기와 대출 서류가 놓인 책상"
+  alt: "서류에 서명하는 손"
 faq:
   - q: DTI는 정확히 무엇을 나눈 값인가요?
     a: 주택담보대출의 연간 원리금 상환액에 다른 대출의 연간 이자 상환액을 더한 금액을 연소득으로 나눈 비율입니다. 금융감독원은 차주의 금융부채 원리금 상환액이 소득에서 차지하는 비율이라고 설명합니다.
