@@ -21,6 +21,8 @@ faq:
 cover:
   image: "/images/deposit-protection-separate-limit-1.jpg"
   alt: "계산기와 지폐가 놓인 책상"
+# 노출 0·미색인·1,500자 미만이라 검색에서 뺌(2026-11-15 진단). 보강하면 이 두 줄을 지운다
+robotsNoIndex: true
 ---
 
 예금자보호 한도가 금융회사당 1억원이라는 것은 많이 알려져 있습니다. [한도를 세는 단위가 계좌가 아니라 금융회사](/posts/deposit-protection-limit/)라는 것도 한 번쯤 들어보셨을 겁니다.
